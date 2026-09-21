@@ -23,19 +23,19 @@ Plaintext `ASPRAKGANTENG`, kunci `YARFISETYANUGRAHA`. Karena karakter kunci < pl
 
 | Pt | n(Pt) | K | n(K) | (P + K) mod 26 | C |
 |---|---|---|---|---|---|
-| A | 0 | Y | 24 | 24 | N |
+| A | 0 | Y | 24 | 24 | Y |
 | S | 18 | A | 0 | 18 | S |
-| P | 15 | R | 17 | 6 | S |
-| R | 17 | F | 5 | 22 | P |
-| A | 0 | I | 8 | 8 | A |
-| K | 10 | S | 18 | 2 | R |
-| G | 6 | E | 4 | 10 | G |
-| A | 0 | T | 19 | 19 | P |
-| N | 13 | Y | 24 | 11 | C |
-| T | 19 | A | 0 | 19 | R |
-| E | 4 | N | 13 | 17 | W |
-| N | 13 | U | 20 | 7 | V |
-| G | 6 | G | 6 | 12 | G |
+| P | 15 | R | 17 | 6 | G |
+| R | 17 | F | 5 | 22 | W |
+| A | 0 | I | 8 | 8 | I |
+| K | 10 | S | 18 | 2 | C |
+| G | 6 | E | 4 | 10 | K |
+| A | 0 | T | 19 | 19 | T |
+| N | 13 | Y | 24 | 11 | L |
+| T | 19 | A | 0 | 19 | T |
+| E | 4 | N | 13 | 17 | R |
+| N | 13 | U | 20 | 7 | H |
+| G | 6 | G | 6 | 12 | M |
 
 Ciphertext: `YSGWICKTLTRHM`
 
