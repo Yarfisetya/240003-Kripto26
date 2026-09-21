@@ -70,9 +70,3 @@ Kunci **dipotong** sepanjang plaintext, dan sisanya tidak dipakai. Pada kasus in
 
 <img width="792" height="447" alt="ss1" src="https://github.com/user-attachments/assets/f91971ca-1970-4381-a5c1-483712e3a0c8" />
 
-
-Pilih `1` untuk enkripsi atau `2` untuk dekripsi, lalu masukkan teks dan kunci. Spasi dan simbol dibuang, dan semua huruf diubah ke huruf besar.
-
-## Output program
-![Contoh output program enkripsi](enc.png)
-![Contoh output program deskripsi](dec.png)
